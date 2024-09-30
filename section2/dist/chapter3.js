@@ -6,5 +6,5 @@ let user = {
 let config = {
     apiKey: `MY API KEY`,
 };
-config.apiKey = "hacked";
 export {};
+// config.apiKey = "hacked";
